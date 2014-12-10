@@ -1,0 +1,1193 @@
+body{
+	background:#000000;
+	font-family:Arial, sans-serif;
+}
+
+#page{
+width: 960px;
+background: #fff;
+margin: 0 auto;
+}
+
+
+.header{
+height: 113px;
+}
+.logo{
+	float: left;
+	margin: 25px 0 0 383px;
+}
+.topRightHeader{
+	float: right;
+	width:207px;
+	margin-top: 54px;
+}
+.search{
+
+}
+.search img{
+	float:left;
+	margin-right: 5px;
+}
+input{
+}
+.search input{
+	border: 1px solid #999;
+	text-decoration:none;
+	float:left;
+	width: 95px;
+	height: 12px;
+	font-size: 9px;
+border-radius: 5px;
+background-color: #999;
+color: white;
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-style:normal;
+alignment-adjust:central;
+}
+
+#raya{
+	float:left;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	font-size: 19px;
+	height: 24px;
+	width: 8px;
+}
+.login{
+	font-size: 11px;
+}
+.login img{
+width: 12px;
+margin-right: 2px;
+margin-top: 2px;
+}
+.siguenos{
+	float: left;
+	margin-top: 11px;
+	font-size: 8px;
+	margin-left: 278px;
+}
+
+.redes{
+	float: right;
+}
+.faceico{
+	float: left;
+	margin-right: 7px;
+	margin-left: 2px;
+}
+.twitterico{
+	float: left;
+	width: 12px;
+}
+.instagramico{
+	float: left;
+	margin-right: 4px;
+	margin-left: 3px;
+	height: 9px;
+}
+nav{
+	border-bottom: 1px solid #fff;
+}
+.shoppingClub{
+	background-color: #19505C;
+height: 45px;
+}
+.logoShopping{
+float: left;
+width: 56px;
+margin-left: 33px;
+margin-top: 15px;
+margin-right: 132px;
+padding-right: 28px;
+padding-top: 1px;
+border-right-color: white;
+border-right-width: 2px;
+border-right-style: solid;
+}
+.houseico{
+	margin-top: 15px;
+	float: left;
+	width: 15px;
+}
+nav ul{
+	float: left;
+	margin-top: 15px;
+	padding-left: 21px;
+	font-size: 14px;
+	font-family: Arial,Gotham, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+nav ul li{
+display: inline;
+float: left;
+}
+nav ul li a{
+text-decoration: none;
+color: white;
+}
+
+.listaTiendas{
+	padding-right: 44px;
+}
+
+.listaRestaurantes{
+	padding-right: 28px;
+}
+
+.listaEntretenimiento{
+	padding-right: 40px;
+}
+
+.listaAgenda{
+    padding-right: 30px;
+}
+
+.listaNoticias{
+    padding-right: 57px;
+}
+.main-content{
+
+}
+
+
+.transbox{
+	width: 959px;
+	height: 218px;
+	background-color: #19505C;
+	opacity: 0.6;
+	position: absolute;
+}
+
+.homeBanner{
+	padding-bottom: 300px;
+}
+
+.ImagenBanner{
+	display: block;
+	position: absolute;
+	width: 960px;
+	height: 343px;
+}
+
+div img{
+	
+}
+
+.listadoHomeBanner{
+	position: relative;
+	margin-left: 252px;
+	padding-top: 15px;
+	font-size: 13px;
+	color: white;
+	height: 10px;
+	width: 350px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	padding-bottom: 10px;
+}
+
+.tituloListadoHome{
+
+}
+
+a:-webkit-any-link {
+	text-decoration: none;
+	color: white;
+}
+
+a[href] {
+	text-decoration:none;
+    color: white;
+}
+
+.listadoCentralIzquierdo{
+	position: absolute;
+	margin-left: 214px;
+	font-size: 13px;
+	list-style: none;
+	color: white;
+	margin-top: 14px;
+}
+
+.ListadoCentralDerecho{
+	position: relative;
+	float: right;
+	margin-right: 375px;
+	font-size: 13px;
+	padding-top: 1px;
+	list-style: none;
+}
+
+
+.topContent{
+	height: 392px;
+}
+.leftTopContent{
+	float: left;
+	background-color: white;
+	width: 652px;
+}
+#agenda{
+	float: left;
+	padding-bottom: 23px;
+}
+#agenda h2{
+	float: right;
+	padding-left: 65px;
+	font-style: normal;
+	color: #19505C;
+	font-weight: normal;
+	font-size: 21px;
+	padding-top: 6px;
+	margin-bottom: 3px;
+}
+.lineaLeft{
+	border-radius: 0.5px;
+	width: 122px;
+	opacity: 0.5;
+	float: left;
+	padding-top: 12px;
+	padding-right: 5px;
+}
+.lineaRight{
+	border-radius: 0.5px;
+	width: 122px;
+	opacity: 0.5;
+	float: right;
+	padding-top: 12px;
+	margin-right: 66px;
+	margin-left: 6px;
+}
+
+.event{
+	float: left;
+}
+
+.event img{
+	float: left;
+	margin-left: 18px;
+	margin-top: 17px;
+}
+#flechaLeft{
+	padding-top: 34px;
+}
+.eventTitle{
+float: left;
+padding-top: 4px;
+padding-left: 10px;
+width: 160px;
+font-weight: bold;
+font-size: 10px;
+}
+
+
+#flechaRight{
+	float: right;
+	margin-right: 29px;
+}
+
+.eventDate{
+	float: right;
+	width: 152px;
+	padding-right: 25px;
+	padding-top: 4px;
+	font-weight: bold;
+	text-align: right;
+}
+
+
+.videoHomeContainer{
+	float: left;
+}
+
+.featureShop{
+	float: left;
+}
+
+.featureVideo{
+	float: right;
+}
+
+.rightTopContent{
+	float: right;
+	background-color: white;
+	border-right-color: white;
+	border-right-style: solid;
+	border-right-width: 8px;
+	width: 300px;
+}
+.featureWatch{
+	float: right;
+	padding-top: 16px;
+}
+.featureNews{
+	float: left;
+}
+
+#titleFeatureNews{
+}
+
+
+#titleFeatureNews h2{
+	padding-left: 7px;
+	font-weight: 400;
+	font-size: 19px;
+	margin-bottom: 0px;
+	color: #19505C;
+}
+
+#titleFeatureNews h2 img{
+	float: right;
+	width: 106px;
+	margin-right: 31px;
+	padding-top: 10px;
+}
+
+#NumeroDestacado{
+	float: left;
+}
+
+#NumeroDestacado h1{
+	margin-top: 5px;
+	margin-left: 19px;
+	margin-bottom: 7px;
+	font-size: 40px;
+	font-weight: 200;
+	float: left;
+	color: #19505C;
+}
+
+#TituloDestacado h3{
+	float: left;
+	margin-left: 4px;
+	margin-top: 11px;
+	font-size: 14px;
+	margin-bottom: 0px;
+	font-weight: 700;
+	color: #19505C;
+}
+
+#TituloDestacado p{
+	font-size: 11px;
+	margin-top: 0px;
+	width: 196px;
+	margin-left: 6px;
+	float: left;
+	color: #19505C;
+	margin-right: 52px;
+	line-height: 9px;
+}
+
+
+.MiddleContent{
+	background-color: white;
+	height: 261px;
+}
+
+.LeftCenterLine{
+	float: left;
+	margin-left: 221px;
+	margin-top: 23px;
+	margin-right: 13px;
+}
+
+#TitleMiddleContent{
+	float: left;
+	height: 41px;
+}
+
+#TitleMiddleContent h2{
+	float: left;
+	margin-top: 9px;
+	color: #19505C;
+	font-weight: 200;
+	font-size: 20px;
+	margin-right: 17px;
+}
+
+.RightCenterLine{
+	float: left;
+	margin-top: 23px;
+}
+
+.ImagenesPromocionales img{
+	padding-left: 14px;
+	padding-top: 0px;
+}
+
+.Contactos{
+	float: left;
+	width: 960px;
+	height: 149px;
+	background-color: white;
+	border-top-color: black;
+	border-top-style: solid;
+}
+
+#ColumnaContactos{
+	float: left;
+	margin-left: 12px;
+}
+
+#ColumnaContactos h2{
+	margin-left: 35px;
+	font-size: 13px;
+	margin-top: 17px;	
+}
+
+#ColumnaContactos a{
+	color: black;
+}
+
+#ColumnaContactos ul{
+	list-style: none;
+	padding-left: 1px;
+	line-height: 20px;
+	margin-top: 15px;
+	color: gray;
+}
+
+#ColumnaContactos ul li{
+	color: gray;
+}
+
+#ColumnaContactos ul li a{
+	color: gray;
+}
+.footer{
+	background-color: white;
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.footLineLeft{
+	padding-left: 74px;
+	float: left;
+	padding-top: 16px;
+}
+
+.footLineRight{
+	float: left;
+	padding-top: 17px;
+	padding-left: 12px;
+	padding-right: 88px;	
+}
+
+.footImgCenter{
+	float: left;
+	padding-left: 21px;	
+}
+
+/* RESPONSIVE
+   =========================================================================
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   
+   *
+   
+/ *Tablets en horizonal y escritorios normales
+   ------------------------------------------------------------------------- */
+@media (min-width: 768px) and (max-width: 1199px) {
+body{
+background: aqua;
+max-width: 750px;
+margin: 0px auto;
+}
+
+#page{
+width: 740px;
+}
+
+
+.header{
+height: 97px;
+}
+
+.logo{
+float: left;
+margin: 15px 0 0 262px;
+}
+
+.topRightHeader{
+margin-top: 30px;
+}
+
+.siguenos{
+margin-left: 173px;
+}
+
+.logoShopping {
+float: left;
+width: 50px;
+margin-left: 18px;
+margin-top: 15px;
+margin-right: 9px;
+padding-right: 10px;
+padding-top: 1px;
+border-right-color: white;
+border-right-width: 2px;
+border-right-style: solid;
+}
+
+
+.transbox{
+width: 740px;
+}
+
+.homeBanner{
+	padding-bottom: 260px;
+}
+
+.ImagenBanner{
+width: 740px;
+height: 297px;
+}
+
+nav ul{
+padding-left: 15px;
+}
+.listaTiendas {
+padding-right: 30px;
+}
+
+.listadoHomeBanner{
+margin-left: 233px;
+}
+
+.tituloListadoHome{
+
+}
+
+.listadoCentralIzquierdo{
+margin-left: 195px;
+}
+
+.ListadoCentralDerecho{
+
+margin-right: 162px;
+}
+
+
+.leftTopContent{
+float: left;
+background-color: white;
+width: 720px;
+}
+
+
+#agenda h2{
+	padding-left: 0px;
+	margin-right:76px;
+}
+
+.lineaRight{
+border-radius: 0.5px;
+width: 122px;
+opacity: 0.5;
+float: right;
+padding-top: 12px;
+margin-right: 0px;
+margin-left: 6px;
+}
+
+#flechaLeft{
+	margin-left: 82px
+}
+
+#flechaRight{
+	margin-right: 50px;
+}
+
+.featureShop{
+	margin-left:35px
+}
+
+.featureVideo{
+	float: left;
+	margin-left:39px
+}
+
+.rightTopContent{
+	float: left;
+padding-left: 37px;
+height: 486px;
+border-bottom-color: white;
+border-bottom-style: double;
+}
+
+
+.MiddleContent{
+	float: left;
+	height: 485px;
+	width: 395px;
+}
+
+.LeftCenterLine {
+float: left;
+margin-left: 38px;
+width: 78px;
+}
+
+
+#TitleMiddleContent h2{
+	margin-right: 7px;
+}
+
+.RightCenterLine{
+	width:85px;
+}
+
+.ImagenesPromocionales img{
+padding-left: 87px;
+padding-top: 6px;
+height: 130px;
+}
+
+.Contactos{
+	width: 740px;
+}
+
+#ColumnaContactos{
+	margin-left: 0px;
+}
+
+#ColumnaContactos h2{
+	margin-left: 3px;	
+}
+
+.footLineLeft{
+	padding-left: 68px;
+	width:75px;
+}
+
+.footLineRight{
+	padding-right: 70px;
+	width:73px
+}
+	
+
+}
+ 
+/* Móviles en horizontal o tablets en vertical
+   *
+   *
+   *
+   *
+   *
+   **
+   *
+   *
+   *
+   *
+   
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *------------------------------------------------------------------------- */
+@media (max-width: 767px) {
+body{
+background: green;
+max-width: 487px;
+margin: 0px auto;
+}
+	
+.footer {
+  padding-bottom: 10px;
+}
+.footImgCenter {
+  padding-left: 0px;
+}
+	#NumeroDestacado {
+    width: 200px;
+		padding-left: 25px;
+}
+	
+	#titleFeatureNews h2 img {
+    margin-right: 106px;
+}
+	
+	#titleFeatureNews h2 {
+    padding-left: 128px;
+}
+	
+	.featureWatch {
+    padding:10px 100px;
+		float: left;
+}
+	
+	.event img {
+    margin-top: 0px;
+}
+
+	.eventDate {
+    float: right;
+    width: 91px;
+    padding-right: 25px;
+    padding-top: 10px;
+    font-weight: bold;
+    text-align: right;
+    font-size: 10px;
+}
+.eventTitle {
+float: left;
+padding-top: 10px;
+padding-left: 6px;
+width: 115px;
+font-weight: bold;
+font-size: 10px;
+}
+#page{
+width: 487px;
+}
+
+
+.header{
+height: 97px;
+}
+
+.logo{
+margin: 15px 0px 0px 17px;
+}
+
+.topRightHeader{
+margin-top: 30px;
+}
+
+.siguenos{
+margin-left: 173px;
+}
+
+.logoShopping {
+    float: left;
+    width: 38px;
+    margin-left: 7px;
+    margin-top: 15px;
+    margin-right: 9px;
+    padding-right: 10px;
+    padding-top: 1px;
+    border-right: 2px solid #FFF;
+}
+
+.transbox{
+width: 486px;
+}
+
+.homeBanner{
+	padding-bottom: 182px;
+}
+
+.ImagenBanner{
+width: 486px;
+height: 218px;
+}
+
+nav ul {
+    margin-top: 10px;
+    font-size: 11px;
+    width: 340px;
+    float: right;
+}
+.listaTiendas {
+padding-right: 30px;
+}
+
+.listadoHomeBanner{
+margin-left: 72px;
+}
+
+.tituloListadoHome{
+
+}
+
+.listadoCentralIzquierdo{
+margin-left: 54px;
+}
+
+.ListadoCentralDerecho{
+margin-right: 66px;
+}
+
+
+.leftTopContent {
+    width: 487px;
+}
+
+
+#agenda h2{
+	padding-left: 0px;
+	margin-right:76px;
+}
+
+.lineaRight{
+border-radius: 0.5px;
+width: 122px;
+opacity: 0.5;
+float: right;
+padding-top: 12px;
+margin-right: 0px;
+margin-left: 6px;
+}
+
+#flechaLeft{
+	margin-left: 21px;
+    padding-top: 15px;
+}
+
+#flechaRight{
+	margin-right: 50px;
+	padding-top: 18px;
+}
+
+.featureShop {
+    margin-left: 88px;
+}
+
+.featureVideo{
+	float: left;
+	margin-left: 90px;
+}
+
+.rightTopContent{
+	float: left;
+height: 392px;
+border-bottom-color: white;
+border-bottom-style: double;
+	width: 479px;
+}
+	
+	.ImagenesPromocionales{
+		
+	}
+
+
+.MiddleContent{
+	float: left;
+	height: 291px;
+	width: 487px;
+}
+
+.LeftCenterLine {
+float: left;
+margin-left: 90px;
+width: 78px;
+}
+
+
+#TitleMiddleContent h2{
+	margin-right: 7px;
+}
+
+.RightCenterLine{
+	width:85px;
+}
+
+.ImagenesPromocionales img{
+padding-left: 20px;
+padding-top: 6px;
+height: 111px;
+}
+
+.Contactos{
+	width: 487px;
+}
+
+#ColumnaContactos{
+	margin-left: 0px;
+}
+
+#ColumnaContactos h2{
+	margin-left: 14px;
+font-size: 8px;
+}
+
+.footLineLeft{
+	width: 21px;
+padding-left: 4px;
+}
+
+.footLineRight {
+    padding-right: 0px;
+    width: 29px;
+}
+
+
+}
+ 
+/* Móviles en vertical
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+   ------------------------------------------------------------------------- */
+@media (max-width: 480px) {
+body{
+background: none repeat scroll 0% 0% #30F;
+max-width: 400px;
+}
+	
+	#TituloDestacado p {
+    font-size: 11px;
+    margin-top: 0px;
+    width: 137px;
+    margin-left: 6px;
+    float: left;
+    color: #19505C;
+    margin-right: 0px;
+    line-height: 9px;
+}
+.footer {
+  padding-bottom: 10px;
+}
+.footImgCenter {
+	width: 329px;
+}
+	#NumeroDestacado {
+padding-left: 0px;
+		width: 185px;
+}
+	
+	#NumeroDestacado h1 {
+	margin-left: 19px;
+	}
+	#titleFeatureNews h2 img {
+    margin-right: 65px;
+}
+	
+	#titleFeatureNews h2 {
+    padding-left: 81px;
+}
+	
+	.featureWatch {
+padding: 10px 45px;
+}
+	
+	.event img {
+    margin-top: 0px;
+		height: 40px;
+}
+
+	.eventDate {
+width: 68px;
+}
+.eventTitle {
+float: left;
+padding-top: 10px;
+padding-left: 6px;
+width: 115px;
+font-weight: bold;
+font-size: 10px;
+}
+#page{
+width: 400px;
+}
+
+
+.header{
+height: 97px;
+}
+
+.logo{
+margin: 15px 0px 0px 17px;
+}
+
+.topRightHeader{
+margin-top: 16px;
+}
+
+.siguenos{
+margin-left: 68px;
+}
+
+.logoShopping {
+    float: left;
+    width: 38px;
+    margin-left: 7px;
+    margin-top: 15px;
+    margin-right: 9px;
+    padding-right: 10px;
+    padding-top: 1px;
+    border-right: 2px solid #FFF;
+}
+
+.transbox{
+width: 400px;
+	height: 184px;
+}
+
+.homeBanner{
+	padding-bottom: 147px;
+}
+
+.ImagenBanner{
+width: 400px;
+height: 184px;
+}
+
+nav ul {
+margin-top: 13px;
+font-size: 9px;
+width: 296px;
+margin-left: 4px;
+float: left;
+padding-left: 12px;
+}
+.listaTiendas {
+padding-right: 30px;
+}
+
+.listadoHomeBanner{
+margin-left: 26px;
+}
+
+.tituloListadoHome{
+
+}
+
+.listadoCentralIzquierdo{
+margin-left: 6px;
+font-size:10px;
+}
+
+.ListadoCentralDerecho{
+margin-right: 66px;
+	font-size:10px;
+}
+
+
+.leftTopContent {
+    width: 400px;
+}
+
+
+#agenda h2{
+	padding-left: 0px;
+margin-right: 38px;
+}
+
+.lineaRight{
+width: 100px;
+}
+
+#flechaLeft{
+	margin-left: 21px;
+padding-top: 1px;
+}
+
+#flechaRight{
+padding-top: 0px;
+}
+
+.featureShop {
+    margin-left: 39px;
+}
+
+.featureVideo{
+	margin-left: 38px;
+}
+
+.rightTopContent{
+width: 392px;
+	height: 343px;
+}
+	
+	.ImagenesPromocionales{
+		
+	}
+
+
+.MiddleContent{
+width: 400px;
+}
+
+.LeftCenterLine {
+margin-left: 30px;
+}
+
+
+#TitleMiddleContent h2{
+	margin-right: 7px;
+}
+
+.RightCenterLine{
+	width:85px;
+}
+
+.ImagenesPromocionales img{
+height: 90px;
+}
+
+.Contactos{
+	width: 400px;
+}
+
+#ColumnaContactos{
+	margin-left: 0px;
+}
+
+#ColumnaContactos h2{
+margin-left: 19px;
+margin-top: 12px;
+	font-size: 6px;
+}
+.footer{
+	width: 400px;
+}
+.footLineLeft{
+	width: 21px;
+padding-left: 4px;
+}
+
+.footLineRight {
+    padding-right: 0px;
+    width: 29px;
+}
+}
